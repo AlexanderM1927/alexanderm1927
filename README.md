@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Alex
 
+- 🏆 I'm graduated of the Universidad del Valle as Information Systems Technologist.
 - 🔭 I’m currently working at Heinsohn
 - ⚡ My favorite code languages are JavaScript and PHP 
 - 🌱 I'm right now improving my skills on VueJS with the latest standards.
