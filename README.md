@@ -13,5 +13,7 @@ Some of the technologies I worked with:
 - Vue (Nuxt, Quasar, Vuetify)
 - NodeJS
 - Strapi CMS
+- Docker
+- Jenkins
 
 You can reach me <a href="https://www.linkedin.com/in/john-alexander-martinez-a3100b208/">here</a>
