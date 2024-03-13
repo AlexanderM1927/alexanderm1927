@@ -5,10 +5,7 @@
 - ⚡ My favorite code languages are JavaScript and PHP 
 - 🌱 I'm right now improving my skills on VueJS with the latest standards.
 
-### I have experience working on different projects as an employee and freelance
-
-I have been working with JavaScript and PHP during  4 years.
-
+I have experience working on different projects as an employee and freelance. I have been working with JavaScript and PHP during  4 years.
 Some of the technologies I worked with:
 
 - Laravel
@@ -18,6 +15,6 @@ Some of the technologies I worked with:
 - Docker
 - Jenkins
 
-Also, I've been managing servers in Ubuntu and Centos.
+Also, I've been managing servers in **Ubuntu** and **Centos**.
 
 **You can reach me <a href="https://www.linkedin.com/in/john-alexander-martinez-a3100b208/">here</a>**
