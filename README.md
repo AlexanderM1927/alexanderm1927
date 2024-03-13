@@ -17,4 +17,6 @@ Some of the technologies I worked with:
 
 Also, I've been managing servers in **Ubuntu** and **Centos**.
 
+During my college career I had the opportunity to work with some other languages as Java and C++.
+
 **You can reach me <a href="https://www.linkedin.com/in/john-alexander-martinez-a3100b208/">here</a>**
