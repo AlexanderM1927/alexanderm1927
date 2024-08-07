@@ -32,6 +32,6 @@ Some of the technologies I worked with:
 
 
 
-Also, I've been managing servers in **Ubuntu** and **Centos**.
+Also, I have experience on linux servers such as **Ubuntu** and **Centos**.
 
 During my college career I had the opportunity to work with some other languages as Java and C++.
