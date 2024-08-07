@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Alex
 
-<a href="mailto:johnalexandermb@hotmail.com" target="_blank">
+<a href="mailto:johnalexandermb@outlook.com" target="_blank">
   <img align="right" src="https://user-images.githubusercontent.com/83927877/163906380-ec24ea7f-9552-4780-912c-346eb28eaaa5.png" alt="outlook icon">
 </a>
 <a href="https://www.linkedin.com/in/john-alexander-martinez-a3100b208/" target="_blank">
