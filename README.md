@@ -8,6 +8,7 @@
 </a>
 
 - 🏆 I'm graduated of the Universidad del Valle as Information Systems Technologist.
+- 🌱 I'm right now studying Systems Engineering at UNAD.
 - 🔭 I’m currently working at HQ Rental Software
 - ⚡ My favorite code languages are JavaScript and PHP 
 
